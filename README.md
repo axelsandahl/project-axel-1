@@ -1,6 +1,4 @@
-# Project Title
-
-project-axel-1
+# project-axel-1
 
 ## Summary
 
