@@ -29,10 +29,10 @@ You will also be able to choose a geographical location or other criteria such a
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![alfcermed-needles-4974448_1920](https://github.com/user-attachments/assets/9506f623-af0f-4a3c-ae2e-25285f4b7248)
+
 
 If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
